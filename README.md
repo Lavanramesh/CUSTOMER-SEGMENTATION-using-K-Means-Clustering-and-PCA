@@ -1,10 +1,10 @@
 # CUSTOMER-SEGMENTATION-using-K-Means-Clustering-and-PCA
 
-📌 Overview
+**📌 Overview**
 
 This project applies data analysis and machine learning to U.S. shopper purchase data. The aim is to identify discount opportunities, analyze spending patterns by age, season, and location, and perform customer segmentation using KMeans clustering. Principal Component Analysis (PCA) was used to reduce dimensionality for visualization, making clusters easier to interpret.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Identify low-performing product categories for discount strategies
 
@@ -16,7 +16,7 @@ Visualize clusters with PCA for better insights
 
 Provide targeted marketing strategies for each cluster
 
-🗂 Dataset
+**🗂 Dataset**
 
 The dataset contains U.S. shopper purchase records with attributes such as:
 
@@ -28,7 +28,7 @@ Preferences: Payment Method, Subscription Status, Discount Applied, Promo Code U
 
 History: Previous Purchases, Frequency of Purchases
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Python – Core programming language
 
@@ -40,7 +40,7 @@ Scikit-learn – KMeans clustering, PCA, StandardScaler
 
 Jupyter Notebook / VS Code – Development environment
 
-📊 Methodology
+**📊 Methodology**
 
 Data Preprocessing – Cleaned categorical variables, handled missing values, normalized numerical features
 
@@ -70,7 +70,7 @@ Cluster 1: Premium buyers, highly engaged
 
 Cluster 2: Occasional deal seekers
 
-📈 Results & Insights
+**📈 Results & Insights**
 
 Discounts recommended for low-performing categories to boost sales
 
